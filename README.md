@@ -15,3 +15,17 @@ https://www.fast.ai/posts/part2-2022-preview.html
 # 4
 - Flowers growing on a hill
 - Iv started thingkign about the design for this glob.
+
+# Action!
+
+## Introduction [Premise]
+
+So in this glob. One would like to share his ideas on his journey. Observations. And Present Awareness.
+
+## Paige #1.
+
+On how One's learning Solidity.
+https://telegra.ph/Jonathan-is-learning-Solidity--Ethereum-10-23
+
+On how One's learning AI applications.
+https://telegra.ph/Johnathan-is-learning-AI-10-23
