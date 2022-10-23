@@ -11,3 +11,7 @@ Hence, I'd like to have a place where I put them. For ease of use. The ability t
 https://www.fast.ai/posts/part2-2022-preview.html
 - have job in another country
 - dwelve in love's capabilities for the one & the two.
+
+# 4
+- Flowers growing on a hill
+- Iv started thingkign about the design for this glob.
