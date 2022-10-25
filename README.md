@@ -29,3 +29,7 @@ https://telegra.ph/Jonathan-is-learning-Solidity--Ethereum-10-23
 
 On how One's learning AI applications.
 https://telegra.ph/Johnathan-is-learning-AI-10-23
+
+## Paige #2.
+It's Wednesday now. Yesterday was a good day things done for the health - wise. Otherwise, not too good. 
+Magic is... Unsettling.
